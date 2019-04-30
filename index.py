@@ -95,7 +95,7 @@ class MainApp(QMainWindow, ui):
         ''', (category_name,))
 
         self.db.commit()
-        print ('sucessfully added category')
+        self.statusBar().showMessage('Successfully Added New Category')
 
 
 
