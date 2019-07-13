@@ -18,7 +18,7 @@
     <property name="geometry">
      <rect>
       <x>0</x>
-      <y>10</y>
+      <y>60</y>
       <width>101</width>
       <height>61</height>
      </rect>
@@ -32,8 +32,8 @@
     </property>
     <property name="iconSize">
      <size>
-      <width>30</width>
-      <height>30</height>
+      <width>35</width>
+      <height>35</height>
      </size>
     </property>
    </widget>
@@ -41,7 +41,7 @@
     <property name="geometry">
      <rect>
       <x>0</x>
-      <y>90</y>
+      <y>140</y>
       <width>101</width>
       <height>61</height>
      </rect>
@@ -55,8 +55,8 @@
     </property>
     <property name="iconSize">
      <size>
-      <width>30</width>
-      <height>30</height>
+      <width>35</width>
+      <height>35</height>
      </size>
     </property>
    </widget>
@@ -64,7 +64,7 @@
     <property name="geometry">
      <rect>
       <x>0</x>
-      <y>170</y>
+      <y>220</y>
       <width>101</width>
       <height>61</height>
      </rect>
@@ -78,8 +78,8 @@
     </property>
     <property name="iconSize">
      <size>
-      <width>30</width>
-      <height>30</height>
+      <width>35</width>
+      <height>35</height>
      </size>
     </property>
    </widget>
@@ -87,7 +87,7 @@
     <property name="geometry">
      <rect>
       <x>0</x>
-      <y>250</y>
+      <y>300</y>
       <width>101</width>
       <height>61</height>
      </rect>
@@ -101,8 +101,8 @@
     </property>
     <property name="iconSize">
      <size>
-      <width>30</width>
-      <height>30</height>
+      <width>35</width>
+      <height>35</height>
      </size>
     </property>
    </widget>
@@ -110,7 +110,7 @@
     <property name="geometry">
      <rect>
       <x>0</x>
-      <y>330</y>
+      <y>380</y>
       <width>101</width>
       <height>61</height>
      </rect>
@@ -124,8 +124,8 @@
     </property>
     <property name="iconSize">
      <size>
-      <width>30</width>
-      <height>30</height>
+      <width>35</width>
+      <height>35</height>
      </size>
     </property>
    </widget>
