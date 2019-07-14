@@ -9,10 +9,23 @@
 ## INDEX
 | SNO  |  About |  Link |
 |---|---|---|
-|  1 | QtDesigner  |  [Click here](#Basic-idea-of-QtDesigner) |
-|  2 | .qrc file (for icons)  |  [Click here](#The-qrc-file) |
+|  1 | Installation  | [Click here](#Installtion-of-PyQT5)  |
+|  2 | QtDesigner  |  [Click here](#Basic-idea-of-QtDesigner) |
+|  3 | .qrc file (for icons)  |  [Click here](#The-qrc-file) |
 |   |   |   |
 
+
+## Installtion of PyQT5
+Assuming python3 and pip3 is installed on the system.
+Use the below commands. (Tested on Ubuntu 19.04)
+
+```sh
+sudo apt-get update
+pip3 install pyqt5
+sudo apt-get install python3-pyqt5
+sudo apt-get install pyqt5-dev-tools
+sudo apt-get install qttools-dev-tools
+```
 
 ## Basic idea of QtDesigner
 
