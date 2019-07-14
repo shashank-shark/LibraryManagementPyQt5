@@ -6,9 +6,34 @@
 4. MySQL Workbench (for easy workflow).
 5. RPA (will be updated soon)
 
+## INDEX
+| SNO  |  About |  Link |
+|---|---|---|
+|  1 | QtDesigner  |  [Click here](#Basic-idea-of-QtDesigner) |
+|  2 | .qrc file (for icons)  |  [Click here](#The-qrc-file) |
+|   |   |   |
+
+
 ## Basic idea of QtDesigner
 
 ### See the snapshot below
 
 ![Qt Designer](https://firebasestorage.googleapis.com/v0/b/libraryprojectpyqt5.appspot.com/o/initial%2FQt1.png?alt=media&token=992d4155-8178-4302-be69-08fe44819d26)
 
+## The .qrc file
+
+The Qt Resource Collection File is stored in the QRC format and is affixed with the QRC extension, and is used by the Qt application and toolkit. These QRC files are generally classified as settings file that contain a list of application resources like image files or icons in XML format.
+
+### The below is an example of .qrc file which I used in the project
+```xml
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>icons/books.png</file>
+    <file>icons/daytoday.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/users.png</file>
+    <file>icons/theme.png</file>
+</qresource>
+</RCC>
+```
