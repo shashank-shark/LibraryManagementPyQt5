@@ -50,3 +50,5 @@ The Qt Resource Collection File is stored in the QRC format and is affixed with 
 </qresource>
 </RCC>
 ```
+
+[<span style='font-size:30px;'>Next &#8611;</span>](/docs/1.md)
